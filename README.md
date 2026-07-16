@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhawesh Bhatt</h1>
-<h3 align="center">assionate about Medical Imaging, Image Processing, Machine Learning, Deep Learning, and Data Science.</h3>
+<h3 align="center">Passionate about Medical Imaging, Image Processing, Machine Learning, Deep Learning, and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh78300&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh78300" /> </p>
 
