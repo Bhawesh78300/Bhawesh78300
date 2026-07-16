@@ -1,21 +1,172 @@
-<h1 align="center">Hi 👋, I'm Bhawesh Bhatt</h1>
-<h3 align="center">Passionate about Medical Imaging, Image Processing, Machine Learning, Deep Learning, and Data Science.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh78300&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh78300" /> </p>
+# Hi 👋, I'm Bhawesh Bhatt
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhawesh78300" alt="bhawesh78300" /></a> </p>
+### 🩺 M.Tech in Biomedical Devices @ IIT Indore
 
-- 🔭 I’m currently working on **Tumor morphological characterization**
+### 🤖 Medical AI • Deep Learning • Computer Vision • Data Science • IoT
 
-- 🌱 I’m currently learning **Data Sciences And Deep Learning**
-
-- 👯 I’m looking to collaborate on **AI/ML, Datascience Projects**
-
-- 📫 How to reach me **bhaweshbhatt777@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Medical+Imaging+%7C+Deep+Learning;Computer+Vision+%7C+Machine+Learning;AI+for+Healthcare+%7C+Biomedical+Engineering;Building+Technology+that+Improves+Healthcare" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an **M.Tech Biomedical Devices student at IIT Indore** passionate about developing **AI-powered healthcare technologies**.
+
+I enjoy working at the intersection of **Medical Imaging**, **Deep Learning**, **Computer Vision**, and **Data Science**, building intelligent systems that transform medical data into meaningful clinical insights.
+
+Beyond AI, I love creating **IoT-enabled healthcare devices**, exploring embedded systems, and building innovative projects that bridge software, hardware, and medicine.
+
+---
+
+## 🔬 Research Interests
+
+🩻 Medical Image Processing
+
+🧠 Deep Learning
+
+👁️ Computer Vision
+
+🤖 Machine Learning
+
+📊 Data Science
+
+🧬 Biomedical Image Analysis
+
+🩺 AI for Healthcare
+
+📈 Healthcare Analytics
+
+🌐 IoT for Healthcare
+
+⚙️ Embedded Systems
+
+---
+
+## 🌱 Currently Working On
+
+- 🩻 Tumor Morphological Characterization
+- 🧠 AI for Medical Image Analysis
+- 📷 Computer Vision Applications in Healthcare
+- 🤖 Deep Learning for Medical Imaging
+- 🌐 Smart IoT Healthcare Devices
+
+---
+
+## 🎯 Currently Learning
+
+- Vision Transformers (ViTs)
+- Diffusion Models
+- Medical Foundation Models
+- Generative AI
+- MLOps
+- Large Language Models (LLMs)
+
+---
+
+## 🤝 Open to Collaborate
+
+I would love to collaborate on projects related to
+
+- Medical Imaging
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- AI for Healthcare
+- Biomedical Engineering
+- Open Source Research
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### Data Science
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### IoT & Hardware
+
+- Arduino
+- ESP32
+- Raspberry Pi
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **bhaweshbhatt777@gmail.com**
+
+---
+
+<div align="center">
+
+### 💡 *"Turning Medical Images into Intelligent Insights."*
+
+⭐ If you enjoy my work, feel free to star my repositories!
+
+</div>
