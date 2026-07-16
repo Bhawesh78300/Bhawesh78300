@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Bhawesh Bhatt
 
-### 🩺 M.Tech in Biomedical Devices @ IIT Indore
+### M.Tech Biomedical Devices @ IIT Indore
 
-### 🤖 Medical AI • Deep Learning • Computer Vision • Data Science • IoT
+### 🩺 Medical AI • Medical Imaging • Computer Vision • Deep Learning • Data Science
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Medical+Imaging+%7C+Deep+Learning;Computer+Vision+%7C+Machine+Learning;AI+for+Healthcare+%7C+Biomedical+Engineering;Building+Technology+that+Improves+Healthcare" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Medical+Imaging+%7C+Deep+Learning;Computer+Vision+%7C+Machine+Learning;AI+for+Healthcare+%7C+Biomedical+Engineering;Building+Technology+for+Better+Healthcare" />
 </p>
 
 </div>
@@ -16,93 +16,82 @@
 
 ## 🚀 About Me
 
-I'm an **M.Tech Biomedical Devices student at IIT Indore** passionate about developing **AI-powered healthcare technologies**.
+I'm an **M.Tech student in Biomedical Devices at IIT Indore**, passionate about building intelligent healthcare technologies using **Medical Imaging, Deep Learning, Computer Vision, and Data Science**.
 
-I enjoy working at the intersection of **Medical Imaging**, **Deep Learning**, **Computer Vision**, and **Data Science**, building intelligent systems that transform medical data into meaningful clinical insights.
-
-Beyond AI, I love creating **IoT-enabled healthcare devices**, exploring embedded systems, and building innovative projects that bridge software, hardware, and medicine.
+I enjoy transforming medical images into meaningful insights, developing AI models for healthcare, and creating innovative IoT-based medical devices that bridge software, hardware, and medicine.
 
 ---
 
 ## 🔬 Research Interests
 
-🩻 Medical Image Processing
-
-🧠 Deep Learning
-
-👁️ Computer Vision
-
-🤖 Machine Learning
-
-📊 Data Science
-
-🧬 Biomedical Image Analysis
-
-🩺 AI for Healthcare
-
-📈 Healthcare Analytics
-
-🌐 IoT for Healthcare
-
-⚙️ Embedded Systems
+- 🩻 Medical Image Processing
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🩺 AI for Healthcare
+- 🧬 Biomedical Image Analysis
+- 📈 Healthcare Analytics
+- 🌐 IoT for Healthcare
+- ⚙️ Biomedical Devices
 
 ---
 
 ## 🌱 Currently Working On
 
-- 🩻 Tumor Morphological Characterization
-- 🧠 AI for Medical Image Analysis
-- 📷 Computer Vision Applications in Healthcare
-- 🤖 Deep Learning for Medical Imaging
-- 🌐 Smart IoT Healthcare Devices
+- 🧬 Tumor Morphological Characterization
+- 🩻 2D X-ray to 3D CT Reconstruction
+- 🧠 Deep Learning for Medical Imaging
+- 👁️ Computer Vision for Healthcare
+- 📡 Smart IoT Healthcare Devices
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning
 
 - Vision Transformers (ViTs)
 - Diffusion Models
 - Medical Foundation Models
 - Generative AI
-- MLOps
 - Large Language Models (LLMs)
+- MLOps
 
 ---
 
 ## 🤝 Open to Collaborate
 
-I would love to collaborate on projects related to
+I'm always excited to collaborate on projects involving:
 
 - Medical Imaging
+- AI for Healthcare
+- Deep Learning
 - Computer Vision
 - Machine Learning
-- Deep Learning
-- AI for Healthcare
 - Biomedical Engineering
-- Open Source Research
+- Data Science
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab" />
+<img src="https://skillicons.dev/icons?i=python,matlab" />
 </p>
 
-### AI & Machine Learning
+### AI & Deep Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 ### Data Science
 
 - NumPy
 - Pandas
-- Matplotlib
 - Scikit-learn
+- Matplotlib
 - Jupyter Notebook
 
 ### Tools
@@ -111,7 +100,7 @@ I would love to collaborate on projects related to
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### IoT & Hardware
+### Hardware & IoT
 
 - Arduino
 - ESP32
@@ -119,45 +108,7 @@ I would love to collaborate on projects related to
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 **bhaweshbhatt777@gmail.com**
 
@@ -165,8 +116,8 @@ I would love to collaborate on projects related to
 
 <div align="center">
 
-### 💡 *"Turning Medical Images into Intelligent Insights."*
+### 💙 *"Turning Medical Images into Intelligent Insights through AI."*
 
-⭐ If you enjoy my work, feel free to star my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>
